@@ -18,6 +18,10 @@ header {
     background-color: chartreuse;
 }
 
+h1 {
+    font-family: 'Lilita One', sans-serif;
+}
+
 main {
     background-color: coral;
     flex: 1 0 auto;
