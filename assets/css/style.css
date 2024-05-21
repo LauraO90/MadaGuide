@@ -15,11 +15,25 @@ body {
 }
 
 header {
-    background-color: chartreuse;
+    background-color: #ffffff;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 4px black;
+
+}
+
+header a {
+    text-decoration: none;
+    color: inherit;
 }
 
 h1 {
     font-family: 'Lilita One', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: black;
 }
 
 main {
