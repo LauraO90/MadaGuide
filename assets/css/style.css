@@ -36,6 +36,20 @@ h1 {
     color: black;
 }
 
+#menu {
+    font-size: 115%;
+    letter-spacing: 2px;
+    list-style-type: none;
+}
+
+#menu > li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid black;
+}
+
 main {
     background-color: coral;
     flex: 1 0 auto;
