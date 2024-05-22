@@ -16,12 +16,15 @@ body {
 
 header {
     background-color: #ffffff;
+    color: #c92d18;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 2px 4px black;
-
+    box-shadow: 0 2px 2px #309135;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 header a {
@@ -35,6 +38,7 @@ h1 {
     letter-spacing: 2px;
     color: black;
 }
+
 
 #menu {
     font-size: 115%;
@@ -50,11 +54,34 @@ h1 {
     border-bottom: 1px solid black;
 }
 
+nav {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #309135;
+    display: none;
+    top: 100%;
+}
+
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
+}
+
 main {
-    background-color: coral;
+    background-color: lightcyan;
     flex: 1 0 auto;
 }
 
 footer {
-    background-color: lightblue;
+    background-color: #309135;
 }
