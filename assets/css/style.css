@@ -78,14 +78,29 @@ nav {
 }
 
 main {
-    background-color: lightcyan;
+    background-color: #ffffff;
     flex: 1 0 auto;
-    margin-top: 47px;
+    margin-top: 49px;
 }
 
 footer {
-    background-color: #309135;
+    background-color: #000000;
 }
+
+#social-media {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-media i {
+    font-size: 160%;
+    padding: 5%;
+    color:#c92d18
+}
+
 
 @media screen and (min-width: 768px) {
     nav {
