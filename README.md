@@ -10,17 +10,33 @@ MadaGuide is a website that encourages users to book a tour guide to explore Mad
 
 ### UX ###
 
+UX considerations and why 
+
 ### Colour Scheme ###
+
+List of all used and why
 
 ## Features ##
 
 ### Navigation ###
 
+nav bar functionality and design 
+
 ### Hero/landing image ###
+
+hero image purpose 
 
 ### Reasons ###
 
+reasons content 
+
 ### Footer ###
+
+footer functionality and design 
+
+### Form ###
+
+TBD
 
 ## Tools and Tech Used ##
 
