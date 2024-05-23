@@ -19,14 +19,14 @@ body {
 header {
     background-color: #000000;
     color: #ffffff;
-    padding: 0 1rem;
+    padding: 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
     box-shadow: 0 2px 2px #309135;
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: center;
 }
 
 header a {
@@ -52,7 +52,7 @@ h1 {
 }
 
 #menu>li {
-    margin-bottom: 1em;
+    padding: 1em;
 }
 
 .active {
@@ -139,6 +139,11 @@ footer {
 
 
 @media screen and (min-width: 768px) {
+
+    header {
+        padding: 0.5em 1em;
+    }
+
     nav {
         display: block;
         position: relative;
@@ -149,6 +154,7 @@ footer {
 
     #menu {
         display: flex;
+        align-items: center;
     }
 
     #menu>li {
