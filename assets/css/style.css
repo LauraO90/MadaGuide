@@ -100,8 +100,7 @@ main {
     color: #309135;
 }
 
-#expert-tours > div,
-#expert-testimonials > div {
+#expert-tours > div {
     line-height: 20px;
     margin-bottom: 20px;
 }
