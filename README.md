@@ -1,4 +1,5 @@
 # MadaGuide
+<<<<<<< HEAD
 
 ## Overview of project ##
 MadaGuide is a website that encourages users to book a tour guide to explore Madagascar. The website is targetted towards tourists looking for a tour in Madagascar, aimed at both people in Madagascar and international toruists with a variety of options and languages available. MadaGuide gives prospective customers a range of information to encourage them to plan and book a fantastic trip with MadaGuide.
@@ -47,3 +48,5 @@ TBD
 ## Credits ##
 
 ## Acknowledgements ##  
+=======
+>>>>>>> 1121d4683f1f4506db2842fb00920b0d118bf751
