@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lilita+One&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
-
+:root{
+    --madagascar-red: #c92d18;
+}
 * {
     padding: 0;
     margin: 0;
@@ -10,13 +12,13 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: black;
+    color: #000000;
     font-family: 'Nunito', sans-serif;
 }
 
 header {
     background-color: #000000;
-    color: #c92d18;
+    color: #ffffff;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -32,6 +34,9 @@ header a {
     color: inherit;
 }
 
+header a:hover{
+    text-decoration: underline var(--madagascar-red);
+}
 h1 {
     font-family: 'Lilita One', sans-serif;
     text-transform: uppercase;
@@ -83,7 +88,7 @@ main {
 }
 
 #hero {
-    height: 500px;
+    height: 400px;
     width: 100%;
     background: url("../css/images/avenuebaobabs-unsplash.jpg") no-repeat center center/cover;
 }
@@ -129,7 +134,7 @@ footer {
 #social-media i {
     font-size: 160%;
     padding: 5%;
-    color: #c92d18
+    color: #ffffff
 }
 
 
