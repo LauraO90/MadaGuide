@@ -47,6 +47,10 @@ h1 {
     color: #ffffff;
 }
 
+.main-heading {
+    margin-top: 50px;
+}
+
 
 #menu {
     font-size: 115%;
