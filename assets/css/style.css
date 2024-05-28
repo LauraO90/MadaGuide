@@ -119,23 +119,26 @@ main {
 
 #expert hr {
     border-top: 1px solid #3a3a3a;
-    margin: 5px 0;
+    margin: 5px 0 1em;
+}
+
+.testimonials p + p {
+    margin-top: 1em;
 }
 
 #circle-cover-bg {
     background: url('../css/images/lemur-unsplash.jpg') no-repeat top center / cover;
-    height: 90vw;
-    width: 90vw;
+    height: 250px;
+    width: 250px;
     margin-bottom: 20px;
     border-radius: 50%;
-    max-width: 300px;
-    max-height: 300px;
 }
 
 #lemur-image {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-top: 1em;
 }
 
 footer {
@@ -155,6 +158,7 @@ footer {
     padding: 5%;
     color: #ffffff
 }
+
 
 
 @media screen and (min-width: 768px) {
@@ -182,5 +186,27 @@ footer {
 
     .nav-toggle-label {
         display: none;
+    }
+
+    .testimonials-container {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .testimonials {
+        flex-grow: 1;
+        max-width: 60%;
+    }
+
+
+    #lemur-image {
+        padding: 1em;
+        flex-grow: 2;
+    }
+
+
+    #circle-cover-bg {
+        width: 200px;
+        height: 200px;
     }
 }
