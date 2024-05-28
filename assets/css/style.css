@@ -126,6 +126,10 @@ main {
     margin-top: 1em;
 }
 
+.testimonials p {
+    font-style: italic;
+}
+
 #circle-cover-bg {
     background: url('../css/images/lemur-unsplash.jpg') no-repeat top center / cover;
     height: 250px;
