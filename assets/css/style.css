@@ -169,6 +169,38 @@ main {
 .itineraries-intro {
     margin-bottom: 1em;
 }
+.contact-us {
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-us input {
+    width: 100%;
+    padding: 0.5em;
+}
+
+.contact-us input + label {
+    margin-top: 1em;
+}
+
+.contact-us label {
+    display: inline-block;
+}
+
+.join-button {
+    background-color: var(--madagascar-red);
+    color: #ffffff;
+    border: none;
+    padding: 0.8em 1em;
+    border-radius: 4px;
+    width: 100%;
+    margin-top: 1em;
+    font-size: 1em;
+
+
+}
 
 
 footer {
@@ -245,6 +277,8 @@ footer {
         margin-left: auto;
         margin-right: auto;
         max-width: 90%;
-    
     }
+
+    .join-button {
+        width: auto;
 }
