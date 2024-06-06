@@ -47,6 +47,8 @@ This section allows users to easily navigate between pages and therefore enhance
 ### Hero/landing image ###
 
 The landing includes a stunning photograph of the Avenue of the Baobabs at sunset. This is regarded as Madagascar’s most iconic tourist attraction and has been used to capture the attention of users. It is immediately clear to users what they can expect to see if they plan a tour with MadaGuide.
+I tested using an image tag with the CSS attribute object-fit: contain, to display the entire image across all devices, however I needed to limit the height to ensure the heading was above the fold. 
+
 ![MadaGuide Hero image](assets/css/images/avenuebaobabs-unsplash.jpg)
 
 ### Reasons section ###
