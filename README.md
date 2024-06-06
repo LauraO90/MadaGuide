@@ -52,10 +52,15 @@ The landing includes a stunning photograph of the Avenue of the Baobabs at sunse
 ### Reasons section ###
 
 The reasons section allows the user to see the benefits of using MadaGuide to plan and book their tour of Madagascar. This section shows them why it is an amazing country to visit, why Madaguide are a great company to book with due to their local knowledge and years of experience. It also offers them testimonials from previous customers who highly praise MadaGuide. 
+Icons have been used on each heading to improve the aesthetic of this text section, alongside a background image of a lemur to encourage users to read this section. Lemurs are endemic to the island of Madagascar and will most likely feature on any planned trip by MadaGuide. The image is designed responsively to maximise space on each screen size. 
+![Madaguide Reasons on tablet](documentation/madaguide-reasons.png)
 
 ### Footer ###
 
-footer functionality and design 
+The footer gives the user links to relevant social media sites to connect with MadaGuide and view their social media content. The links have recognisable social media icons for Facebook, Instagram and X that open to a new tab to allow for easy navigation. 
+Like the header and navigation section, the footer is identical on each page to ensure uniformity and allow the user to access these links across any page.
+
+### Itineraries ###
 
 ### Form ###
 
