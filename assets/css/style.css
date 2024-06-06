@@ -201,7 +201,10 @@ main {
     font-size: 1em;
 
 }
-
+.car-image {
+    width: 100%;
+    object-fit: contain;
+}
 
 footer {
     background-color: #000000;
@@ -282,8 +285,8 @@ footer {
     .join-button {
         width: auto;
     }
-
     .car-image {
         max-width: 90%;
-        height: auto;
+        margin: auto 5%;
     }
+}
