@@ -17,14 +17,15 @@ MadaGuide is designed using the "mobile first" principle to ensure mobile users 
 
 ## Colour Scheme ##
 
-The colour scheme for MadaGuide is mostly neutral to ensure readability and accessibility, with pops of colour used to reflect the flag colours of Madagascar. The red and green colours of the Madagascar flag can be overpowering and their use has therefore been limited to splashes of colour to draw attention to certain features such as a call to action (CTA).
+The colour scheme for MadaGuide is mostly neutral to ensure readability and accessibility, with pops of colour used to reflect the flag colours of Madagascar. The red and green colours of the Madagascar flag can be overpowering and their use has therefore been limited to splashes of colour to draw attention to certain features such as a call to action (CTA).CSS variables were used to avoid repetition and enhance maintainability.
 
 Colours used:
 
 - **#000000** - for primary texts and header/footer
 - **#ffffff** - for logo and page background 
-- **#309135** - for main headings and styling e.g. box shadow
-- **#c92d18** - for a call to action e.g. submit button on contact us form 
+- **#309135** - for main headings and styling e.g. box shadow (madagascar-green)
+- **#c92d18** - for a call to action e.g. submit button on contact us form (madagascar-red)
+
 
 ## Typography ##
 
