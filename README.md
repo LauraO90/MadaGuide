@@ -41,15 +41,14 @@ Fonts used:
 
 ### Navigation ###
 
-The Navigation Bar is featured on all four pages. The full responsive navigation bar includes link to Home, Itineraries, Contact Us and Thank You pages and the navigation bar is identical on each page to ensure easy navigation. A menu (“hamburger”) button has been used for mobile screens to reduce the volume of information on this smaller pace and improve accessibility for all users.
-This section allows users to easily navigate between pages and therefore enhances the UX of MadaGuide.
+The Navigation Bar is featured on all four pages. The full responsive navigation bar includes link to Home, Itineraries, Contact Us and Thank You pages and the navigation bar is identical on each page to ensure easy navigation. A menu (“hamburger”) button has been used for mobile screens to reduce the volume of information on this smaller pace and improve accessibility for all users. I added touches of colour to the Navigation Bar (through adding pseudo-class :hover, and a box-shadow) to increase accessibility and include Madagascan flag colours.  This section allows users to easily navigate between pages and therefore enhances the UX of MadaGuide.
+![MadaGuide Navigation image](documentation/madaguide-nav.png)
 
 
 ### Hero/landing image ###
 
 The landing includes a stunning photograph of the Avenue of the Baobabs at sunset. This is regarded as Madagascar’s most iconic tourist attraction and has been used to capture the attention of users. It is immediately clear to users what they can expect to see if they plan a tour with MadaGuide.
 I tested using an image tag with the CSS attribute object-fit: contain, to display the entire image across all devices, however I needed to limit the height to ensure the heading was above the fold. 
-
 ![MadaGuide Hero image](assets/css/images/avenuebaobabs-unsplash.jpg)
 
 ### Reasons section ###
@@ -62,6 +61,7 @@ Icons have been used on each heading to improve the aesthetic of this text secti
 
 The footer gives the user links to relevant social media sites to connect with MadaGuide and view their social media content. The links have recognisable social media icons for Facebook, Instagram and X that open to a new tab to allow for easy navigation. 
 Like the header and navigation section, the footer is identical on each page to ensure uniformity and allow the user to access these links across any page.
+![MadaGuide footer image](documentation/madaguide-footer.png)
 
 ### Itineraries ###
 
