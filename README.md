@@ -65,9 +65,17 @@ Like the header and navigation section, the footer is identical on each page to 
 
 ### Itineraries ###
 
-### Form ###
+The itineraries provide the user a range of options they can book with MadaGuide. The user can see exactly what experiences the itineraries offer, and what is included or not included when booking a tour. I created three different itineraries to show the range of experiences users can have when planning a trip with MadaGuide. These tours in the itineraries can be booked, or users can take inspiration from them and book a bespoke trip with MadaGuide too. 
+An image of a 4WD has also been included to allow users to understand the type of vehicle that is used for each of these trips and get a sense of the adventure that awaits. 
 
-TBD
+![MadaGuide Itinerary 1](documentation/madaguide-itinerary1.png)
+
+
+### Contact Us Form ###
+
+The Contact Us page allows the user to get in touch with MadaGuide to plan their trip to Madagascar. The form requires users to submit their first name, last name and email address. All fields are required, and once submitted users are directed to the Thank You page which ensures they know the form has successfully been submitted, and MadaGuide will be in touch soon. 
+The form submit button uses the bright colour (Madagascar-red) to show this is a CTA and both the form and submit button are responsive across devices. 
+![MadaGuide Contact Us Form](documentation/madaguide-contact.png)
 
 ## Tools and Tech Used ##
 
