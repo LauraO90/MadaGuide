@@ -255,6 +255,10 @@ footer {
         display: none;
     }
 
+    #hero {
+        background: url("../css/images/avenuebaobabslarge-unsplash.jpg") no-repeat center center / cover;
+    }
+
     .testimonials-container {
         display: flex;
         flex-direction: row;
