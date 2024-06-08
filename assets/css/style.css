@@ -104,7 +104,7 @@ main {
 #hero {
     height: 400px;
     width: 100%;
-    background: url("../css/images/avenuebaobabsmed-unsplash.jpg") no-repeat center center / cover;
+    background: url("../css/images/avenuebaobabssmall-unsplash.jpg") no-repeat center center / cover;
 }
 
 #reasons {
@@ -256,7 +256,7 @@ footer {
     }
 
     #hero {
-        background: url("../css/images/avenuebaobabslarge-unsplash.jpg") no-repeat center center / cover;
+        background: url("../css/images/avenuebaobabsmed-unsplash.jpg") no-repeat center center / cover;
     }
 
     .testimonials-container {
