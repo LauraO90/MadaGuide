@@ -1,10 +1,10 @@
 # MadaGuide
 
 ## Overview of project ##
-MadaGuide is a website that encourages users to book a tour guide to explore Madagascar. The website is targeted towards tourists, both local people in Madagascar and international tourists with a variety of tour options and multi-lingual guides available. MadaGuide gives prospective customers a range of information including suggested itineraries and positive testimonials to encourage them to plan and book a fantastic trip with MadaGuide. I recently travelled to Madagascar and found the process of booking the trip difficult due to the lack of reliable and up-to-date websites for tour operators and guides. When in Madagascar, locals agreed this was an area that required improvement to attract more international tourists. MadaGuide strives to improve this through the development of an easy to navigate website which contains the essential information that travellers require to confidently book a trip. 
+MadaGuide is a website that encourages users to book a tour with a local guide to explore Madagascar. The website is targeted towards tourists, both local people in Madagascar and international tourists with a variety of tour options and multi-lingual guides available. MadaGuide gives prospective customers a range of information including suggested itineraries and positive testimonials to encourage them to plan and book a fantastic trip with MadaGuide. I recently travelled to Madagascar and found the process of booking the trip difficult due to the lack of reliable and up-to-date websites for tour operators and guides. When in Madagascar, locals agreed this was an area that required improvement to attract more international tourists. MadaGuide strives to improve this through the development of an easy to navigate website which contains the essential information that travellers require to confidently book a trip. 
 
 ## Planning - UX and UI ##
-Prior to developing the website, I considered a variety of key features that would be integral to the success of MadaGuide:
+Prior to developing the website, I considered a variety of key features that would be integral to the success of MadaGuide. The majority of these initial ideas have been impleneted and some have evolved through the development process. 
 ![Initial planning and design considerations](documentation/madaguide-planning-design.png)
 
 ### UX ###
@@ -15,7 +15,7 @@ MadaGuide has been developed using the "mobile first" principle to ensure mobile
 
 ### Colour Scheme ###
 
-The colour scheme for MadaGuide is mostly neutral to ensure readability and accessibility, with pops of colour used to reflect the colours of the Madagascar flag. The red and green colours of the Madagascar flag can be overpowering and their use has therefore been limited to splashes of colour to draw attention to certain features such as a call to action (CTA).CSS variables were used to avoid repetition and enhance maintainability.
+The colour scheme for MadaGuide is mostly neutral to ensure readability and accessibility, with pops of colour used to reflect the colours of the Madagascar flag. The red and green colours of the Madagascar flag can be overpowering and their use has therefore been limited to splashes of colour to draw attention to certain features such as a call to action (CTA). CSS variables were used to avoid repetition and enhance maintainability.
 
 Colours used:
 
@@ -74,7 +74,7 @@ Like the header and navigation section, the footer is identical on each page to 
 
 ### Itineraries ###
 
-The itineraries provide the user a range of options they can book with MadaGuide. The user can see exactly what experiences the itineraries offer, and what is included or not included when booking a tour. I created three different itineraries to show the range of experiences users can have when planning a trip with MadaGuide. These tours can be booked as they are presented in the itineraries, or users can take inspiration from them and book a bespoke trip with MadaGuide too. This is detailed at the top of the itineraries section to encourage bookings and show the flexibility of booking with MadaGuide. 
+The itineraries provide the user with a range of options they can book with MadaGuide. The user can see exactly what experiences the itineraries offer, and what is included or not included when booking a tour. I created three different itineraries to show the range of experiences users can enjoy when planning a trip with MadaGuide. These tours can be booked as they are presented in the itineraries, or users can take inspiration from them and book a bespoke trip with MadaGuide too. This is detailed at the top of the itineraries section to encourage bookings and show the flexibility of booking with MadaGuide. 
 An image of a 4WD has also been included to allow users to understand the type of vehicle that is used for each of these trips and get a sense of the adventure that awaits. 
 
 ![MadaGuide Itinerary 1](documentation/madaguide-itinerary1.png)
@@ -87,11 +87,11 @@ The form submit button uses the bright red colour (Madagascar-red) to show this 
 ![MadaGuide Contact Us Form](documentation/madaguide-contact.png)
 
 ## Testing ##
-Testing was used through the entirety of the MadaGuide project. Every HTML and CSS change or experiment was checked in the browser to monitor UX and aesthetics of each page. With each change, Google Developer tools were used to test changes across on mobile, tablet and larger laptop and desktop screens (see UX section).
+Testing was used throughout the entirety of the MadaGuide project. Every HTML and CSS change or experiment was checked in the browser to monitor UX and the aesthetics of each page. With each change, Google Developer tools were used to test changes across mobile, tablet and larger laptop and desktop screens (see UX section).
 
 ### Validator Testing ### 
 - **HTML**
-    - W3C Validator returned an error message on the list used for the Itineraries on the itineraries.html page. This was amended to remove obsolete code and returned no errors when retested. No other errors were returned when passing through the W3C validator. ![W3C images](documentation/madaguide-w3c.png)
+    - W3C Validator returned an error message for the Itineraries list on the itineraries.html page. This was amended to remove obsolete code and returned no errors when retested. No other errors were returned when passing through the W3C validator. ![W3C images](documentation/madaguide-w3c.png)
 
 - **CSS**
     - No errors were returned when passing through the Jigsaw validator. ![Jigsaw image](documentation/madaguide-jigsaw.png)
