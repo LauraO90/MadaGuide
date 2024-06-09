@@ -4,7 +4,7 @@
 MadaGuide is a website that encourages users to book a tour with a local guide to explore Madagascar. The website is targeted towards tourists, both local people in Madagascar and international tourists with a variety of tour options and multi-lingual guides available. MadaGuide gives prospective customers a range of information including suggested itineraries and positive testimonials to encourage them to plan and book a fantastic trip with MadaGuide. I recently travelled to Madagascar and found the process of booking the trip difficult due to the lack of reliable and up-to-date websites for tour operators and guides. When in Madagascar, locals agreed this was an area that required improvement to attract more international tourists. MadaGuide strives to improve this through the development of an easy to navigate website which contains the essential information that travellers require to confidently book a trip. 
 
 ## Planning - UX and UI ##
-Prior to developing the website, I considered a variety of key features that would be integral to the success of MadaGuide. The majority of these initial ideas have been impleneted and some have evolved through the development process. 
+Prior to developing the website, I considered a variety of key features that would be integral to the success of MadaGuide. The majority of these initial ideas have been implemented and some have evolved through the development process. 
 ![Initial planning and design considerations](documentation/madaguide-planning-design.png)
 
 ### UX ###
