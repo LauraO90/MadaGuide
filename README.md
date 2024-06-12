@@ -114,6 +114,31 @@ https://github.com/LauraO90/MadaGuide/commit/39d22b854b03ba6703db65fb9273e015f98
 
 MadaGuide was created using Gitpod and the site was deployed to Github pages: [MadaGuide deployment](https://laurao90.github.io/MadaGuide/)
 
+### Deployment to GitHub Pages ###
+
+The steps to deploy are as follows:
+
+- In the [GitHub repository](https://github.com/LauraO90/MadaGuide), navigate to the Settings tab.
+- From the source section drop-down menu, select the Main Branch, then click "Save".
+- The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+### Clone from Github ###
+
+The steps to clone this repository are as follows:
+
+- On the repository's GitHub page, click on the "Code" button.
+- In the dropdown, click on "Clone" to copy the repository's URL to your clipboard.
+- Open your Terminal or Git Bash.
+- Navigate to the directory where you want to clone the repository.
+- In your IDE Terminal, use the git clone command (- `git clone) followed by the URL you copied earlier to create your local clone.
+
+### Fork from Github ###
+
+The steps to fork this repository are as follows:
+
+- On the repository's GitHub page, click on the "Fork" button at the top-right corner.
+- Once forked, the repository will be available under your GitHub account.
+
 ## Credits ##
 ### Tools and Tech Used ###
 [GitPod](https://www.gitpod.io/) used for coding and developing MadaGuide. 
